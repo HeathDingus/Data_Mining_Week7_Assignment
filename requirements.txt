@@ -1,0 +1,7 @@
+pandas
+geopandas
+numpy
+osmnx
+networkx
+folium
+scikit-learn
